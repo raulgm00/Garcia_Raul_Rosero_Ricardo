@@ -1,0 +1,4 @@
+[2024-05-21 19:37:07] [ INFO ] [OdontologoDaoH2:40] Odontologo a retornar :Odontologo{id=3, numeroMatricula=3333, nombre='Profesora', apellido='Fulanita'}
+[2024-05-21 19:37:07] [ INFO ] [OdontologoDaoH2:83] Odontologo creado : [1] = Odontologo{id=1, numeroMatricula=1111, nombre='Raul', apellido='Garcia'}
+[2024-05-21 19:37:07] [ INFO ] [OdontologoDaoH2:83] Odontologo creado : [2] = Odontologo{id=2, numeroMatricula=2222, nombre='Rosero', apellido='Ricardo'}
+[2024-05-21 19:37:07] [ INFO ] [OdontologoDaoH2:83] Odontologo creado : [3] = Odontologo{id=3, numeroMatricula=3333, nombre='Profesora', apellido='Fulanita'}
